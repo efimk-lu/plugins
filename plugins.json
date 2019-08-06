@@ -39,6 +39,11 @@
     "githubUrl": "https://github.com/serverless/serverless-websockets-plugin",
     "status": "none"
 }, {
+    "name": "serverless-lumigo-plugin",
+    "description": "Serverless framework plugin to auto-install the Lumigo tracer, the serverless intelligence platform",
+    "githubUrl": "https://github.com/lumigo-io/serverless-lumigo-plugin",
+    "status": "none"
+}, {
     "name": "@serverless/enterprise-plugin",
     "description": "The Serverless Enterprise Plugin",
     "githubUrl": "https://github.com/serverless/enterprise-plugin",
